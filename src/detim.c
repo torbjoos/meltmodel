@@ -57,7 +57,7 @@ int main()
     /*----------------------------------------------------------------*/
     /*** READ DATA FROM CONTROLING INPUT FILE / INITIALISATION     ****/
     /*----------------------------------------------------------------*/
-
+float a=5;
     input_read();      /*** READ INPUT DATA ***/
     degreestart();
 
