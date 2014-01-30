@@ -42,6 +42,8 @@ extern float **griddgmglac;
 /* reserviert Speicher fuer eine float Matrix m[nr..nrh][ncl..nch]  */
 /**************************************************************/
 
+// hei regine
+
 float **matrixreserv(int nrl, int nrh, int ncl, int nch)
 
 {
